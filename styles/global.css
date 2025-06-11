@@ -52,7 +52,7 @@ ul{
  font-weight: 700;
  
  li: :marker{
-    color: var(--text-secondary
+    color: var(--text-secondary);
  }
 
 }
