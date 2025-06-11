@@ -65,5 +65,8 @@ color: var(--accent-blue);
      }
       }
     }
-    
+    footer {
+        text-align: center;
+    }
+    }
     
